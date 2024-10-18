@@ -1,3 +1,6 @@
+fastapi
+pydantic
 elasticsearch
 openai
 cohere
+uvicorn
